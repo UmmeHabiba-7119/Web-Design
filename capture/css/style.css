@@ -1,0 +1,165 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+a,a:hover,a:focus{
+  text-decoration: none;
+}
+ul,ol{
+  list-style-type: none;
+}
+/*header-top section*/
+.header-top{
+  background-color: #45B479;
+}
+.header-top .container{
+  background-color: #45B479;
+}
+/*header section*/
+.header{
+  background-image: url('../images/bg.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+}
+
+.header .container .b1{
+  font-size: 15px;
+  display: inline-block;
+  border: 1px solid #000000;
+  border-radius: 2px;
+  padding: 8px 15px;
+  margin-left: 78px;
+  margin-bottom: 180px;
+
+}
+
+h2{
+  padding-left: 80px;
+  padding-top: 114px;
+}
+h6{
+  padding-top: 48px;
+  padding-left: 80px;
+}
+.app{
+  font-size: 20px;
+  font-weight: bold;
+  padding-right: 15px;
+}
+.app2{
+  font-size: 20px;
+  font-weight: bold;
+  padding-right: 15px;
+}
+.app-name{
+  padding-left: 10px;
+}
+/*introduction part*/
+.intro{
+  background-color: #F3F3F3;
+}
+.intro .container .p{
+  color: #DFDFDF;
+  padding-top: 20px;
+  padding-bottom: 30px;
+  padding-right: 75px;
+  margin-left: 78px;
+}
+/*content part*/
+.img-position{
+  padding-top: 100px;
+  padding-left: 156px;
+  padding-bottom: 166px;
+}
+.img-content{
+  padding-top: 100px;
+  padding-left: 30px;
+  padding-right: 36px;
+}
+.img-content-p{
+  padding-left: 30px;
+  padding-right: 36px;
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
+.img-content-pb{
+  padding-left: 30px;
+  padding-right: 36px;
+  font-weight: bold;
+}
+/*footer part*/
+.footer{
+  background-color: #41C17D;
+}
+.property{
+  padding-top: 80px;
+  padding-left: 140px;
+  color: white;
+  font-size: 50px;
+}
+.head{
+  color: white;
+  text-align: center;
+  padding-top: 50px;
+}
+.head-content{
+  color: white;
+  text-align: center;
+  padding-top: 28px;
+}
+.head-content2{
+  color: white;
+  text-align: center;
+  padding-top: 28px;
+  padding-bottom: 80px;
+}
+/*paragraph part*/
+.paragraph{
+  background-color: #FAF9F9;
+}
+.paragraph .container{
+  padding-left: 140px;
+  padding-right: 140px;
+  padding-top: 100px;
+  text-align: center;
+}
+h4{
+  padding-top: 50px;
+}
+/*footer2 part*/
+.footer2{
+  background-color: #41C17D;
+}
+.footer2 .container{
+  text-align: center;
+}
+.footer2 .container .property2{
+  color: white;
+  padding-top: 100px;
+}
+.mail{
+  width: 25%;
+  color: #41C17D;
+  margin-left: 420px;
+  border-radius: 0%;
+  margin-bottom: 100px;
+}
+.mail-icon{
+  font-size: 30px;
+  /* color: #41C17D; */
+}
+/*last part*/
+.last .container{
+  text-align: center;
+  padding-top: 100px;
+  font-size: 30px;
+  color: #DDDDDD;
+}
+.lc{
+  font-weight: bold;
+}
+h6{
+  color: black;
+  padding-bottom: 100px;
+}

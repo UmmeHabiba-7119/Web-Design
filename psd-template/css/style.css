@@ -1,0 +1,73 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+a,a:focus,a:hover{
+    text-decoration: none;
+}
+
+ul,ol{
+    list-style-type: none;
+}
+.nav{
+    margin-left: 550px;
+    margin-right: 8px;
+    margin-top: 10px;
+    padding-left: 10px;
+    display: block;
+    background-color: #E2494B;
+}
+.banner{
+    font-style: italic;
+}
+.font{
+  text-align: center;
+  padding-left: 3px;
+  padding-right: 3px;
+  margin-left: 550px;
+  margin-bottom: 50px;
+  background-color: #E2494B;
+  font-size: 18px;
+}
+.size{
+  font-size: 12px;
+}
+.footer{
+  margin-top: 40px;
+  padding-top: 20px;
+  background-color: #E2E2E2;
+}
+.right{
+  display: flex;
+}
+.last{
+  background-color: #E2E2E2;
+}
+.nm{
+  margin-top: 0;
+}
+.sub{
+  background-color: #E2494B;
+  margin-top: 10px;
+  border: none;
+}
+.sub:hover{
+  background-color: #E2494B;
+}
+sposi{
+  position: absolute;
+  top: 10px;
+}
+.haati{
+  position: absolute;
+  top: 677px;
+}
+.haati1{
+  position: absolute;
+  top: 893px;
+}
+.haati2{
+  position: absolute;
+  top: 1342px;
+}

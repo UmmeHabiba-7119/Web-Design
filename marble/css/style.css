@@ -1,0 +1,159 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+a,a:hover,a:focus{
+  text-decoration: none;
+}
+ul,ol{
+  list-style-type: none;
+}
+/* header section */
+.marbleSize{
+  margin-left: 180px;
+  margin-top: 3px;
+}
+.hnav{
+  margin-left: 400px;
+  margin-top: 8px;
+}
+.hnav:hover{
+  color: #32C0A4;
+}
+/*banner/image part*/
+.bimg{
+  background-image: url('../images/background.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+}
+.btext{
+  text-align: center;
+  font-size: 30px;
+  padding-top: 140px;
+  padding-bottom: 200px;
+}
+.btext1{
+  text-align: center;
+  font-size: 24px;
+  padding-top: 3px;
+}
+.ibutton{
+  position: absolute;
+  top: 370px;
+  left: 600px;
+  padding: 8px;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+/*content*/
+.l1{
+  padding: 24px;
+  background-color: #9D9ABF;
+  font-size: 30px;
+  border-radius: 50%;
+  margin-left: 150px;
+  margin-top: 20px;
+}
+.l2{
+  padding: 22px;
+  background-color: #D2514B;
+  font-size: 30px;
+  border-radius: 50%;
+  color: white;
+  margin-left: 150px;
+  margin-top: 20px;
+}
+.l3{
+  padding: 22px;
+  background-color: #66A3C6;
+  font-size: 30px;
+  border-radius: 50%;
+  color: white;
+  margin-left: 150px;
+  margin-top: 20px;
+}
+.f{
+  font-weight: normal;
+}
+h5{
+  text-align: center;
+  margin-top: 12px;
+}
+/*content2*/
+hr.new1{
+  border: 1px solid #E4E4E4;
+}
+.new2{
+  font-size: 20px;
+}
+.phone{
+  font-size: 20px;
+  position: absolute;
+  top: 250px;
+}
+.laptop{
+  font-size: 20px;
+}
+.watch{
+  font-size: 20px;
+  position: absolute;
+  top: 250px;
+}
+.f2{
+  font-size: 10px;
+  font-weight: normal;
+  position: absolute;
+  top: 280px;
+}
+.f3{
+  font-size: 14px;
+  font-weight: normal;
+  position: absolute;
+  top: 300px;
+  text-align: left;
+}
+/*content3*/
+.bg{
+  background-color: #EFEFEF;
+}
+.f4{
+  text-align: center;
+  font-weight: normal;
+  font-size: 16px;
+  color: #A1A1A1;
+  padding-left: 20px;
+}
+/*footer*/
+.fbg{
+  background-color: black;
+  padding-top: 30px;
+}
+.ff{
+  font-size: 20px;
+  color: #5C5C5C;
+}
+.fd{
+  color: white;
+  font-weight: normal;
+}
+.colour{
+  color: #A89574;
+}
+hr.new2{
+  border: 1px solid full #ffffff;
+}
+h6{
+  color: #A1A1A1;
+  font-weight: normal;
+  padding-left: 430px;
+  padding-top: 50px;
+}
+.com{
+  font-size: 40px;
+  color: #A1A1A1;
+  text-align: center;
+  padding-left: 200px;
+  font-style: italic;
+  padding-bottom: 20px;
+}

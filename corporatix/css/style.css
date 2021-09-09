@@ -1,0 +1,75 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+a,a:hover,a:focus{
+  text-decoration: none;
+}
+ul,ol{
+  list-style-type: none;
+}
+/*navbar section*/
+.nav{
+  background-color: #CAD2E7;
+}
+.nav-color{
+  color: #475FA3;
+}
+.nav .navbar .navbar-nav a:hover .nav-color{
+  color: black;
+  background-color: white;
+  border-radius: 20%;
+  padding: 1px 2px;
+}
+.brand-name{
+  color: #5164A8;
+  font-weight: bold;
+}
+/*banner section*/
+.banner{
+  background-image: url('../images/banner-bg.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+}
+.banner .container .property{
+  padding-top: 24px;
+  padding-bottom: 24px;
+  padding-left: 14px;
+  padding-right: 14px;
+  background-color: inherit;
+}
+/*content section*/
+.content{
+  background-color: #DADFEB;
+}
+.link-property{
+ color: #3C53C3;
+}
+.read-more{
+  border-bottom: 1px solid  #3C53C3;
+}
+/*footer section*/
+.footer{
+  background-color: #565F81;
+}
+.menu-property{
+  color: white;
+  border-right: 1px solid white;
+  border-width: 2px;
+}
+.menu-property2{
+  border-right: none;
+}
+.pro{
+  color: #979FB6;
+  padding-left: 18px;
+}
+.pro2{
+  color: white;
+  border-bottom: 1px solid #ffffff;
+}
+.footer .container .row .col-md-4 h6{
+  color: white;
+  padding-top: 25px;
+}
